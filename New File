@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <title>Rowing Around the World</title>
+</head>
+<body>
+  <h1>Winnipeg, MB, Canada</h1>
+  <ul>
+    <li>The Red River</li>
+    <li>Lake Winnipeg</li>
+  </ul>
+  <img src"earth.jpg" alt=Earth">
+</body>
+</html>
